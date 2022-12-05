@@ -57,6 +57,13 @@ __Subtask 1 - Krótki kurs podstaw SQL__
 
 *19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał*
 
+![obraz](https://user-images.githubusercontent.com/116674154/205741970-2fbeb2f6-31cd-4e2e-8d8e-e0470c6e06cd.png)
 
 
 *20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa*
+
+![obraz](https://user-images.githubusercontent.com/116674154/205742575-86a757ed-c552-446e-81d7-b8ea617813ff.png)
+
+![obraz](https://user-images.githubusercontent.com/116674154/205742709-8312b043-9a0d-4686-b802-3701733a0d72.png)
+
+
