@@ -1,6 +1,6 @@
 # Task-6
 
-__Subtask 1 - Krótki kurs podstaw SQL__
+### Subtask 1 - Krótki kurs podstaw SQL
 
 
 *11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd*
@@ -67,3 +67,7 @@ __Subtask 1 - Krótki kurs podstaw SQL__
 ![obraz](https://user-images.githubusercontent.com/116674154/205742709-8312b043-9a0d-4686-b802-3701733a0d72.png)
 
 
+### Subtask 2 - Test
+
+
+ Wynik: 10 z 15
